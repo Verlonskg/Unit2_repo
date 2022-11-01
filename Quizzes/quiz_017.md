@@ -16,3 +16,5 @@ def averageLenght (words :list) -> int:
 out = averageLenght(words = ["hello", "main"])
 print(out)
 ```
+## Proof of work
+![](Quiz_017.png)
