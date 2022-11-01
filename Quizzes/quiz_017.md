@@ -18,3 +18,4 @@ print(out)
 ```
 ## Proof of work
 ![](Quiz_017.png)
+**Fig. 1** Evidence that the program works for the four cases in the slide
