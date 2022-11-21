@@ -34,4 +34,5 @@ print(test2)
 ## B.
 AB + not(B+C) + B(notC notA)
 
+## Proof of work
 ![]()
