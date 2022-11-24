@@ -1,7 +1,7 @@
 
 # Quiz_020
 
-a.
+### a.
 Create a function that produces the table of Truth for 3 inputs.
 
 
@@ -18,7 +18,7 @@ print(table)
 
 ```
 
-b.
+### b.
 Truth table and circuit for: Light = S1S2+(S2+S3(notS1))S1
 
 
