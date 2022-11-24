@@ -25,7 +25,7 @@ Truth table and circuit for: X = ZW ⨁ (Z ⨁ Y(not W))
 
 
 ## Proof of work
-![]()
+![](Quiz_021.png)
 **Fig. 1** Evidence that the program works for part a
 
 ![]()
