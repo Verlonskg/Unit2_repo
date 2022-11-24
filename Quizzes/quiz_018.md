@@ -36,5 +36,5 @@ out = numberMatches(l=12345,s=123)
 print(out)
 ```
 ## Proof of work
-![]()
+![](Quiz_018.png)
 **Fig. 1** Evidence that the program works for the four cases in the slide
