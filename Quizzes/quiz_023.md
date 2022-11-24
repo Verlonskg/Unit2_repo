@@ -38,7 +38,7 @@ Truth table for: A(A ⊕ B)
 
 
 ## Proof of work
-![]()
+![](Quiz_023.png)
 **Fig. 1** Evidence that the program works for part a
 
 ![]()
