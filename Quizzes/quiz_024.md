@@ -28,7 +28,7 @@ Circuit for: not(bit0 bit1 + not (bit0 + bit1))
 
 
 ## Proof of work
-![]()
+![](Quiz_024.png)
 **Fig. 1** Evidence that the program works for part a
 
 ![]()
