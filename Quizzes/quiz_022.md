@@ -2,8 +2,6 @@
 
 Create a program that produces n random values from the equation below, where m and s are the other inputs of the function
 
-![](quiz_21_function.png)
-
 ```.py
 
 import random
