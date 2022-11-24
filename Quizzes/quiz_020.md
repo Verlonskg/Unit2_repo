@@ -22,7 +22,7 @@ Truth table and circuit for: Light = S1S2+(S2+S3(notS1))S1
 
 
 ## Proof of work
-![]()
+![](Quiz_020.png)
 **Fig. 1** Evidence that the program works for part a
 
 ![]()
