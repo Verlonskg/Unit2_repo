@@ -31,7 +31,7 @@ Proof that: A (A + B) = A
 
 
 ## Proof of work
-![]()
+![](Quiz_022.png)
 **Fig. 1** Evidence that the program works for part a
 
 ![]()
